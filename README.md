@@ -9,4 +9,7 @@ _Regression - Process of Continuous Value Prediction_
 <br> https://github.com/Pragna235/Regression-Models/blob/main/Copy_of_Age_NetWorth_LinearRegression.ipynb
 
 * Linear Regression using Least Squares Method formula form scratch
-<br>https://github.com/Pragna235/Regression-Models/blob/main/Linear_Regression_using_Formula.ipynb
+<br> https://github.com/Pragna235/Regression-Models/blob/main/Linear_Regression_using_Formula.ipynb
+
+* Linear Regression using Scikit Learn
+<br> https://github.com/Pragna235/Regression-Models/blob/main/Linear_Regression_using_ScikitLearn.ipynb
