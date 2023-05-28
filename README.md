@@ -19,3 +19,7 @@
 * **Logistic Regression using Scikit Learn - Titanic Data Analysis**
 <br> _Build a predictive model that answers the question: “What sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc)._
 <br> https://github.com/Pragna235/Regression-Models/blob/main/Titanic_Data_Analysis.ipynb
+
+* **Logistic Regression using Scikit Learn - SUV Predictions**
+<br> _Explore dataset to predict the category of people who might be interested to purchase the newly launched suv in the market_
+<br>https://github.com/Pragna235/Regression-Models/blob/main/SUV_Predictions.ipynb
