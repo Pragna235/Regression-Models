@@ -15,3 +15,6 @@
 
 * Linear Regression using Scikit Learn
 <br> https://github.com/Pragna235/Regression-Models/blob/main/Linear_Regression_using_ScikitLearn.ipynb
+
+* Logistic Regression using Scikit Learn - Titanic Data Analysis
+<br> https://github.com/Pragna235/Regression-Models/blob/main/Titanic_Data_Analysis.ipynb
